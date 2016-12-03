@@ -1,0 +1,23 @@
+body {
+  background-color: #ccc;
+}
+
+p {
+  font-size: 48px;
+  background-color: #000;
+  color: #fff;
+}
+
+a {
+  color: red;
+  font-size: 36px;
+  text-decoration: none;
+}
+
+.kirmizi {
+  background-color: red;
+}
+
+#mavi {
+  color: blue;
+}
